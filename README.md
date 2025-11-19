@@ -61,26 +61,26 @@ Below are the exported high-fidelity screens from the redesign:
 ---
 
 ### **05–06 · Home Page**
-<img src="05_LumiHome_Lightmode.png" width="820">
-<img src="06_LumiHome_Darkmode.png" width="820">
+<img src="05_Lumi_Home_Light.png" width="820">
+<img src="06_Lumi_Home_Dark.png" width="820">
 
 ---
 
 ### **07–08 · Free Delivery Page**
-<img src="07_LumiFreeDelivery_LightMode.png" width="820">
-<img src="08_LumiFreeDelivery_DarkMode.png" width="820">
+<img src="07_Lumi_FreeDelivery_Light.png" width="820">
+<img src="08_Lumi_FreeDelivery_Dark.png" width="820">
 
 ---
 
 ### **09–10 · Technology Page**
-<img src="09_LumiTech_LightMode.png" width="820">
-<img src="10_LumiTech_DarkMode.png" width="820">
+<img src="09_Lumi_Tech_Light.png" width="820">
+<img src="10_Lumi_Tech_Dark.png" width="820">
 
 ---
 
 ### **11–12 · Mattress Comparison Page**
-<img src="11_LumiComparison_LightMode.png" width="820">
-<img src="12_LumiComparison_DarkMode.png" width="820">
+<img src="11_Lumi_Comparison_Light.png" width="820">
+<img src="12_Lumi_Comparison_Dark.png" width="820">
 
 ---
 
