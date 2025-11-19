@@ -1,5 +1,6 @@
 # lumi-brand-system
 A self-initiated UI/UX design project exploring a soft-tech purple identity, high-fidelity layouts, and brand storytelling.
+
 # Lumi — Mattress Experience Redesign  
 *A self-initiated UI/UX design project by Liuyi Li (2025)*
 
@@ -53,34 +54,35 @@ and components—was applied across all four pages.
 Below are the exported high-fidelity screens from the redesign:
 
 ### **01–04 · Project Introduction**
-<img src="01_Lumi_Introduction_Cover.png" width="820">
-<img src="02_Lumi_Project_Overview.png" width="820">
-<img src="03_Lumi_Design_Goals.png" width="820">
-<img src="04_Lumi_Process_Overview.png" width="820">
+<img src="./01_Lumi_Introduction_Cover.png" width="820">
+<img src="./02_Lumi_Project_Overview.png" width="820">
+<img src="./03_Lumi_Design_Goals.png" width="820">
+<img src="./04_Lumi_Process_Overview.png" width="820">
 
 ---
 
 ### **05–06 · Home Page**
-<img src="05_Lumi_Home_Light.png" width="820">
-<img src="06_Lumi_Home_Dark.png" width="820">
+<img src="./05_Lumi_Home_Light.png" width="820">
+<img src="./06_Lumi_Home_Dark.png" width="820">
 
 ---
 
 ### **07–08 · Free Delivery Page**
-<img src="07_Lumi_FreeDelivery_Light.png" width="820">
-<img src="08_Lumi_FreeDelivery_Dark.png" width="820">
+<img src="./07_Lumi_FreeDelivery_Light.png" width="820">
+<img src="./08_Lumi_FreeDelivery_Dark.png" width="820">
 
 ---
 
 ### **09–10 · Technology Page**
-<img src="09_Lumi_Tech_Light.png" width="820">
-<img src="10_Lumi_Tech_Dark.png" width="820">
+<img src="./09_Lumi_Tech_Light.png" width="820">
+<img src="./10_Lumi_Tech_Dark.png" width="820">
 
 ---
 
 ### **11–12 · Mattress Comparison Page**
-<img src="11_Lumi_Comparison_Light.png" width="820">
-<img src="12_Lumi_Comparison_Dark.png" width= "820">
+<img src="./11_Lumi_Comparison_Light.png" width="820">
+<img src="./12_Lumi_Comparison_Dark.png" width="820">
+
 ---
 
 ## 🛠️ Tools  
