@@ -80,8 +80,7 @@ Below are the exported high-fidelity screens from the redesign:
 
 ### **11–12 · Mattress Comparison Page**
 <img src="11_Lumi_Comparison_Light.png" width="820">
-<img src="12_Lumi_Comparison_Dark.png" width="820">
-
+<img src="12_Lumi_Comparison_Dark.png" width= "820">
 ---
 
 ## 🛠️ Tools  
